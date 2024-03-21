@@ -8,7 +8,6 @@ namespace Test
         static void Main(string[] args)
         {
 
-            Console.SetWindowSize(300, 200);
             Console.ForegroundColor = ConsoleColor.Green;
 
             // Lies
